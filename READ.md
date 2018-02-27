@@ -1,1 +1,1 @@
-#mynewrepo
+New change in clone copy
